@@ -17,3 +17,11 @@
 ## С буквами
 
 ![let](assets/letters.png)
+
+## Несуществующий файл
+
+![asd](./assets/nonexist.png)
+
+## Печать в консоль
+
+![console](./assets/console.png)
